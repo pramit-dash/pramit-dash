@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramit-dash&label=Profile%20views&color=0e75b6&style=flat" alt="pramit-dash" /> </p>
 
-- 🔭 I’m currently working at [gridX](https://github.com/grid-x)
+- 🔭 I work as Cloud Platform Engineer at [IABG](https://www.iabg.de/)
 
 - 📫 How to reach me **ga59cor@gmail.com**
 
