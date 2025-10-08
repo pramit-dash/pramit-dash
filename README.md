@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Pramit</h1>
-<h3 align="center">A software- & data-engineer based out of Germering in Bavaria, Germany.</h3>
+<h3 align="center">An engineer and tinkerer based out of Germering in Bavaria, Germany.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pramit-dash&label=Profile%20views&color=0e75b6&style=flat" alt="pramit-dash" /> </p>
 
